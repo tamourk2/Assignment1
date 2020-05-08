@@ -1,0 +1,261 @@
+media only screen (max-width=960px){
+  
+}
+
+
+.container{
+
+    background-color: blue;
+    width: 100%;
+    height:60px;
+}
+div.image img{
+
+    width: 20px;
+    height: 30px;
+    padding-left: 20px;
+
+}
+div.image{
+padding-left: 190px;
+padding-top: 14px;
+
+
+}
+ .para{
+position: absolute;
+ padding-left:  510px;
+ padding-top: 5px;
+font-size: 16px;
+color: ivory;
+}
+button{
+    margin-top: 15px;
+
+
+position: relative;
+float:right;
+    width: 70px;
+    height: 40px;
+    right: 327px;
+    }
+.header{
+    width:100%;
+    height:70px;
+}
+.img{
+margin-left: 170px;
+width:260px;
+height: 60px;
+}
+
+nav{
+
+float:right;
+
+}
+ul {
+    
+    font-size: 16px;
+
+}
+li{
+
+    display: inline;
+    padding: 2px;
+   right: 380px;
+   padding-left: 24px;
+    position:relative;  
+}
+a{
+    text-decoration: none;
+}
+
+marquee{
+    background-color:slateblue;
+    color: white;
+    margin-top: 20px;
+}
+p.news{
+    color: chartreuse;
+}
+a.abb{
+color:darkblue;
+}
+
+
+
+/* < Introducation */
+
+.intro{
+    width: 100%;
+    height: 700px;
+    background-color:beige;
+  
+}
+p.introd{
+position: relative;
+margin-top: 8px;
+
+font-size: 40px;}
+
+p.para1{
+    font-size: 20px;
+    text-align: justify;
+    margin-left: 160px;
+    margin-right: 160px;
+    line-height: 30px;
+
+}
+div.conta{
+
+height: 250px;
+background-color: blue;
+
+}
+
+.main{
+
+    width: 100%;
+    height:250px;
+background-color: blue;
+display:flex;
+}
+.one{
+    margin-left: 350px;
+    margin-top: 60px;
+
+}
+
+
+
+.two, .three, .four{
+    margin-top: 60px;
+
+    margin-left: 30px;
+
+    }
+    strong{
+
+        font-size: 34px;
+        color: white;
+    }
+    span{
+        font-size: 18px;
+        color: white;
+
+    }
+    .Whatweare{
+width:100%;
+height: 650px;
+background-color: azure;
+    }
+.span{
+
+    padding-top: 30px;
+}
+.content{
+    margin: 10px;
+text-align: center;
+    background-color: white;
+    width:350px;
+    height: 200px;
+}
+.content1{
+    margin: 10px;
+text-align: center;
+    background-color: white;
+    width:350px;
+    height: 200px;
+}
+.maincontent{
+    margin-top: 80px;
+margin-left: 240px;
+    display: inline-flex;
+}
+.content3{
+    margin: 10px;
+text-align: center;
+    background-color: white;
+    width:350px;
+    height: 200px;
+}
+.maincontent1{
+    margin-top: 20px;
+margin-left: 240px;
+    display: inline-flex;
+}
+
+
+.container-7{
+    background-color: white;
+   display: flex;
+   flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  justify-content: space-around;
+
+}
+.title-five{
+    height: 150px;
+    background-color: white;
+    list-style-type: none;
+    margin-right: 100px;
+}
+.words{
+   text-align: center;
+   font-size: 40px;
+   list-style-type: none;
+}
+.fst-word{
+   color: blue;
+   text-decoration: none;
+}
+.sed-word{
+   color: green  
+}
+.sed-logo{
+   border-bottom: 5px blue;
+   border-radius: 50px;
+   padding-bottom: 20px;
+}
+.imagesall{
+   text-align: center;
+}
+.saylani-images:hover{
+   transform: scale(1.5);
+   opacity: 1;
+}
+.adres{
+   background-color: rgb(63, 59, 59);
+   font-size: 20px;
+   display: flex;
+   flex-wrap: wrap;
+   flex-direction: row;
+   justify-content: space-around;
+   justify-content: space-between;
+   height: 400px;
+}
+.address{
+    left:30px;
+   padding-left: 100px;
+   color: rgb(131, 118, 118);
+   justify-content: space-around;
+   
+}
+.link{
+     border-bottom: 1px solid rgb(20, 184, 61);
+   padding-bottom: 10px;
+   font-size: 20px;
+   font-style: normal;
+   color: white;
+   justify-content: space-around;
+ 
+}
+.contectus{
+   color: white;
+   padding-right: 50px;
+   justify-content: space-around;
+}
+
+
